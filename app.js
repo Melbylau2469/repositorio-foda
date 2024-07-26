@@ -7,5 +7,5 @@ let chute = prompt('Escolha um número entre 24 e 69');
 if (chute == numeroSecreto) {
 alert('Isso ai! Você virou um gay');
 } else {
-alert('Você fez o l :(')
+alert('Você fez o l saia daqui imediatamente burro do crl')
 }
