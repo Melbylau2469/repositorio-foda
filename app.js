@@ -1,7 +1,7 @@
 alert('Boas vindas ao jogo mais gay de todos os tempos');
-let numeroSecreto = 69;
+let numeroSecreto = 2469;
 console.log('numeroSecreto')
-let chute = prompt('Escolha um número entre 1 e 100');
+let chute = prompt('Escolha um número entre 24 e 69');
 
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
